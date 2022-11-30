@@ -21,7 +21,7 @@
 
 ### Setup
 
--Clone this repo using `git clone https://github.com/DashCode47/todo-kruger de su proyecto`
+-Clone this repo using `git clone https://github.com/DashCode47/todoapp de su proyecto`
 
 ### Commands
 
