@@ -1,8 +1,8 @@
 <img src="./image-removebg-preview%20(2).png" height="50px">
 
-# KrugerStar Playground
+# KrugerStar To-Do-List
 
-> Primer proyecto Primer proyecto Primer proyecto Primer proyecto Primer proyecto Primer proyecto Primer proyecto Primer proyecto
+> Todo list para comprender mejor el uso de useState y el manejo de datos a traves del update-create-delete-edit
 
 <img src="./src/assets/mock.png" height="300px">
 
